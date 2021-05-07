@@ -1,0 +1,30 @@
+{
+	"id": "3d115efa-c65a-42a4-b075-8e41dd41fb13",
+	"name": "MyTestsExamples",
+	"values": [
+		{
+			"key": "Id",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "Email",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "Name",
+			"value": "",
+			"enabled": true
+		},
+		{
+			"key": "email_owner",
+			"value": "",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2021-05-04T17:02:04.892Z",
+	"_postman_exported_using": "Postman/8.3.0"
+}
+пум пум пум
